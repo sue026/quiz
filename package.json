@@ -25,7 +25,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": [
@@ -45,5 +44,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://sue026.github.io/quiz"
+  "homepage": "https://sue026.github.io/quiz",
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
+  }
 }

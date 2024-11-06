@@ -4,6 +4,7 @@ import GlobalStyle from "./style/GlobalStyle"
 function App() {
   return (
     <>
+      <h1>TodoList</h1>
       <GlobalStyle />
       <TodoMain />
     </>
